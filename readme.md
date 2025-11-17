@@ -28,5 +28,5 @@ Your Name Here
 ## 📜 License
 This project is open-source and free to use.
 
-![My Image](C:\Users\Student\Pictures\Screenshots)
+![My Image](https://media.istockphoto.com/id/2159593477/photo/two-donkeys.jpg?s=612x612&w=0&k=20&c=CZzNWkGm8K9nuHW2SxE-Jr2SdYOewE2_nrYzxesFjAM=)
 
